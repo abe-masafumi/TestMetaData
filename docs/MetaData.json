@@ -1,0 +1,18 @@
+[
+  {
+    "title": "作品タイトル",
+    "explanation": "説明",
+    "imageUrl": "https://placeimg.com/640/480/any",
+    "price": "値段",
+    "Royalties": "取り分（10％）",
+    "option": "タグとかジャンルとか入力できるよーん"
+  },
+  {
+    "title": "作品タイトル2",
+    "explanation": "説明2",
+    "imageUrl": "https://placeimg.com/640/480/any",
+    "price": "値段2",
+    "Royalties": "取り分（10％）2",
+    "option": "タグとかジャンルとか入力できるよーん2"
+  }
+]
